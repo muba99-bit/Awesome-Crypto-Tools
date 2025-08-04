@@ -88,6 +88,7 @@ Some accounts to follow to stay updated about the crypto market:
 - [0xTojo](https://x.com/0xTojo)
 - [velinart](https://x.com/velinart)
 - [BasedShillBH](https://x.com/BasedShillBH)
+- [mlmabc](https://x.com/mlmabc)
 
 ## Memecoin Launchpads
 
