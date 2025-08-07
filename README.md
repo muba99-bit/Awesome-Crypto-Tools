@@ -91,6 +91,7 @@ Some accounts to follow to stay updated about the crypto market:
 - [mlmabc](https://x.com/mlmabc)
 - [0x_atreyu](https://x.com/0x_atreyu)
 - [100kETH](https://x.com/100kETH)
+- [shaundadevens](https://x.com/shaundadevens)
 
 ## Memecoin Launchpads
 
