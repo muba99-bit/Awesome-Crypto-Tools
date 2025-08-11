@@ -92,6 +92,9 @@ Some accounts to follow to stay updated about the crypto market:
 - [0x_atreyu](https://x.com/0x_atreyu)
 - [100kETH](https://x.com/100kETH)
 - [shaundadevens](https://x.com/shaundadevens)
+- [DV_aix](https://x.com/DV_aix)
+- [Yung Macro](https://x.com/apralky)
+- [0xCryptoBard](https://x.com/0xCryptoBard)
 
 ## Memecoin Launchpads
 
